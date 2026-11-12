@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Fariba 👋</h1>
 
 <p align="center">
-  <b>CSE Undergrad | AIUB | Final Year | Plan to go Abroad with Full Funded Scholarship | Researcher | BIYE KORMU VAI</b>
+  <b>CSE Undergrad | AIUB | Final Year | Plan to go Abroad with Full Funded Scholarship | Researcher </b>
 </p>
 
 <p align="center">
