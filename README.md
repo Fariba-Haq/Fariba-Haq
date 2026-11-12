@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=Progga%20Fariba%20Haq&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=CSE%20Undergrad%20%C2%B7%20AI%20%26%20Data%20Science%20%C2%B7%20Researcher&descSize=17&descAlignY=60&animation=fadeIn" alt="banner" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1200&color=7FD8BE&center=true&vCenter=true&width=620&lines=Building+things+that+think+%26+move+%F0%9F%A4%96;Machine+Learning+%C2%B7+Data+Science+%C2%B7+IoT;Hardware+%2B+Software+%2B+Research;Dean's+Award+%C2%B7+CGPA+3.82+%2F+4.00" alt="Typing SVG" />
