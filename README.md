@@ -1,3 +1,8 @@
+<h1 align="center">Hi there, I'm Fariba 👋</h1>
+
+<p align="center">
+  <b>I teach machines to read invisible WiFi signals, and I build robots that spot fire and sort garbage.</b>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1200&color=7FD8BE&center=true&vCenter=true&width=620&lines=Building+things+that+think+%26+move+%F0%9F%A4%96;Machine+Learning+%C2%B7+Data+Science+%C2%B7+IoT;Hardware+%2B+Software+%2B+Research;Dean's+Award+%C2%B7+CGPA+3.82+%2F+4.00" alt="Typing SVG" />
@@ -16,21 +21,21 @@
 
 > "Curious about how machines learn, and how circuits come alive."
 
-I'm a *Computer Science & Engineering* undergraduate at *American International University-Bangladesh (AIUB)* with a growing interest in *AI, Machine Learning and Data Science. I enjoy working across the stack, from **web development* and *software design* to *hardware projects* and *research*, and I have submitted papers to international conferences.
+I'm a **Computer Science & Engineering** undergraduate at **American International University-Bangladesh (AIUB)** with a growing interest in **AI, Machine Learning and Data Science**. I enjoy working across the stack, from **web development** and **software design** to **hardware projects** and **research**, and I have submitted papers to international conferences.
 
 | | |
 |---|---|
-| 🎓 *Studying* | B.Sc. in CSE, AIUB (Sep 2023 – May 2027, expected) |
-| 📈 *CGPA* | 3.82 / 4.00 |
-| 🔬 *Focus* | Machine Learning · Data Science · AI · IoT |
-| 🏅 *Recognition* | Dean's Award · Merit Scholarship · Academic Scholarship |
-| 🦊 *Community* | Diversity Lead, Firefox@AIUB · Member, AIUB Computer Club |
+| 🎓 **Studying** | B.Sc. in CSE, AIUB (Sep 2023 – May 2027, expected) |
+| 📈 **CGPA** | 3.82 / 4.00 |
+| 🔬 **Focus** | Machine Learning · Data Science · AI · IoT |
+| 🏅 **Recognition** | Dean's Award · Merit Scholarship · Academic Scholarship |
+| 🦊 **Community** | Diversity Lead, Firefox@AIUB · Member, AIUB Computer Club |
 
 ---
 
 ## 🧰 Tech Stack
 
-*Languages*
+**Languages**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -40,14 +45,14 @@ I'm a *Computer Science & Engineering* undergraduate at *American International 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-*Web*
+**Web**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-*Tools & Platforms*
+**Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -60,7 +65,7 @@ I'm a *Computer Science & Engineering* undergraduate at *American International 
 
 Also: Code::Blocks · Proteus · Emu8086
 
-*Concepts:* Machine Learning · Data Science · Artificial Intelligence
+**Concepts:** Machine Learning · Data Science · Artificial Intelligence
 
 ---
 
@@ -71,7 +76,7 @@ Also: Code::Blocks · Proteus · Emu8086
 | 🤖 **[EcoBot](https://github.com/Mehjabin001/ecobot)** | Hardware-based robot with a research paper submitted to ICREST 2027 | C++ · Arduino · ESP32 |
 | 💼 **[Job Portal](https://github.com/DURJOYSAHA21/JOB-PORTAL)** | Web app for job listings and applications (Web Technology course) | HTML · CSS · JS · PHP |
 | 🛍️ **[StoreScores](https://github.com/SadiSalman/StoreScores)** | Software application built in C# | C# |
-| 🚕 *CampusRyde* | UI design for a software product idea | Figma |
+| 🚕 **CampusRyde** | UI design for a software product idea | Figma |
 | 📸 **[Life of a Photographer](https://github.com/Fariba-Haq/Computer-Graphics)** | Graphics application | C++ |
 
 ---
@@ -88,12 +93,12 @@ Also: Code::Blocks · Proteus · Emu8086
 
 ## 🏆 Honors, Certifications & Activities
 
-- 🎖️ *Dean's Award:* for maintaining a cumulative GPA of 3.75+ with a full-time course load since Fall 2023
-- 💰 *Merit Scholarship* and *Academic Scholarship* at AIUB
-- 📜 Cisco Verified: *Dean's Award* · *ICS*
-- 🙋‍♀️ Volunteer: *Cyber Gaming Fest* · *CS Fest* (AIUB)
-- 🦊 *Diversity Lead*, Firefox@AIUB
-- 💻 *General Member*, AIUB Computer Club
+- 🎖️ **Dean's Award:** for maintaining a cumulative GPA of 3.75+ with a full-time course load since Fall 2023
+- 💰 **Merit Scholarship** and **Academic Scholarship** at AIUB
+- 📜 Cisco Verified: **Dean's Award** · **ICS**
+- 🙋‍♀️ Volunteer: **Cyber Gaming Fest** · **CS Fest** (AIUB)
+- 🦊 **Diversity Lead**, Firefox@AIUB
+- 💻 **General Member**, AIUB Computer Club
 
 ---
 
@@ -112,9 +117,9 @@ Also: Code::Blocks · Proteus · Emu8086
 
 ## 📬 Let's Connect
 
-I'm always open to *research collaborations, **internships* and conversations about AI, data and robotics.
+I'm always open to **research collaborations**, **internships** and conversations about AI, data and robotics.
 
-📧 **proggafariba@gmail.com*
+📧 **proggafariba@gmail.com**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=12,20,24&section=footer" alt="footer" />
