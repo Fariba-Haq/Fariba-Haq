@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Fariba 👋</h1>
 
 <p align="center">
-  <b>I teach machines to read invisible WiFi signals, and I build robots that spot fire and sort garbage.</b>
+  <b>CSE Undergrad | AIUB | Final Year | Plan to go Abroad with Full Funded Scholarship | Researcher | BIYE KORMU VAI</b>
 </p>
 
 <p align="center">
