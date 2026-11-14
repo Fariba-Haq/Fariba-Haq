@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:proggafariba@gmail.com"><img src="https://img.shields.io/badge/Email-F4A6C0?style=flat-square&logo=gmail&logoColor=black"/></a>
-  <a href="https://www.linkedin.com/in/yourusername"><img src="[https://img.shields.io/badge/LinkedIn-7FD8BE?style=flat-square&logo=linkedin&logoColor=black](https://www.linkedin.com/in/progga-fariba-haq-01a7b5449?utm_source=share_via&utm_content=profile&utm_medium=member_android)"/></a>
+  <a href="https://www.linkedin.com/in/yourusername"><img src="https://www.linkedin.com/in/progga-fariba-haq-01a7b5449?utm_source=share_via&utm_content=profile&utm_medium=member_android"/></a>
   <a href="https://github.com/Fariba-Haq"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=7FD8BE"/></a>
   <img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh-1f2a30?style=flat-square&logo=googlemaps&logoColor=F4A6C0"/>
 </p>
