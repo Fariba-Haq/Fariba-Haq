@@ -63,7 +63,6 @@ I'm a **Computer Science & Engineering** undergraduate at **American Internation
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
 ![VS](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 
-Also: Code::Blocks · Proteus · Emu8086
 
 **Concepts:** Machine Learning · Data Science · Artificial Intelligence
 
